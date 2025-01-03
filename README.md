@@ -1,4 +1,18 @@
+# Kim Byoung Jun
+### Software Developer | Full-Stack Engineer
 ## Hi there 👋
+
+# About Me
+-  I’m currently working on [current project or technology focus]
+
+# Professional Experience
+
+# Projects
+
+# Skills
+
+# Let's Connect
+
 
 <!--
 **aquaheyday/aquaheyday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
