@@ -9,19 +9,35 @@
 
 # Projects
 
+### **매출 정산 자동화 시스템 구축** | 2023.04 - 2023.09
+- **개요**: 월 100억 원 규모의 매출 데이터를 처리하기 위한 **일일 정산 시스템**을 설계 및 개발했습니다. 500여 매체의 데이터를 기반으로 사업자/계좌 조회, 세금계산서 처리, 추가/제외 정산금 관리 등 정산 관련 프로세스를 자동화하여 정산 효율성을 대폭 향상시켰습니다.
+- **역할**:
+  - **시스템 설계 및 DB 구조 개발**:
+    - **관계형 DB 설계**를 통해 대규모 매출 데이터를 체계적으로 관리.
+    - **Clickhouse**를 활용해 대량의 통계 데이터를 고속으로 처리.
+  - **정산 데이터 적재 및 처리**: **Linux Cron**과 **Laravel Console**을 사용해 일일 데이터 적재 및 통계 자동화.
+  - **이메일 송신 기능 개발**: **Laravel Mail**을 통해 자동화된 이메일 송신 기능 구현.
+  - **POPBILL API 연동**: **POPBILL API 계약 프로세스**를 진행하여 사업자/계좌 조회 및 세금계산서 처리 기능 추가.
+- **성과**:
+  - **정산 시스템 사용자 증가**: 도입 직후 4개 회사에서 **100여 개 회사**로 확장.
+  - **정산 소요 기간 단축**: 정산 처리 시간을 **7일 → 2일**로 대폭 감소.
+  - **정확성 및 효율성 강화**: 대규모 매출 데이터의 일일 정산 자동화로 운영 효율을 크게 향상.
+  - **사용자 만족도 향상**: 정산 프로세스 간소화와 데이터 신뢰성 확보.
+- **주요 기술 스텍**: Mail, Eloquent ORM, Clickhouse, Cron Jobs, PHP 7.2(Laravel 6.x), MySQL, Vanilla JS
+
 ### **광고 매핑 시스템 설계 및 구축** | 2022.01 - 2022.05  
 - **개요**: 광고 매체 데이터와 캠페인 데이터를 매핑하여 실시간 광고 집행 및 성과 측정을 위한 **광고 매핑 시스템**을 설계 및 구현.
 - **역할**:
   - **시스템 설계**: Laravel Blade, Collection, QueryBuilder를 활용하여 광고 매핑 시스템 개발.  
   - **비동기 처리**: Ajax 기반 비동기 ProgressBar 구현으로 사용자 작업 진행 상태를 실시간 시각화.  
-  - **Batch 처리**: Laravel Artisan Console과 Linux Crontab을 사용한 대규모 Batch 작업 자동화 및 최적화.  
+  - **Batch 처리**: Linux Cron과 Laravel Console을 사용한 대규모 Batch 작업 자동화 및 최적화.  
   - **DB 부하 방지**: PHP usleep을 이용해 대량 데이터 처리 시 DB 부하를 최소화.  
   - **데이터 관리**: MySQL Procedure를 활용한 레거시 데이터 삭제 및 관리 최적화.  
 - **성과**:
   - **처리량 확장**: 광고 매핑 처리 성능을 **500만 건/일 → 4억 건/일**로 향상.  
   - **안정성 확보**: 월 평균 **150억 PV** 트래픽 환경에서 안정적으로 실시간 데이터를 저장/삭제 처리하는 시스템 구축.  
   - **운영 효율성**: MySQL Procedure를 통한 데이터 삭제 작업 시간을 **90% 단축**.
-- **주요 기술 스택**: Crontab, Procedure, Laravel Artisan Console, QueryBuilder, MySQL, Javscript
+- **주요 기술 스택**: Procedure, Cron, Console, QueryBuilder, PHP 7.2(Laravel 6.x), MySQL, Javscript
 
 ### **광고 설정 시스템 고도화** | 2021.01 - 2021.09
 
@@ -39,11 +55,11 @@
   - **성과**:
     - 광고 미송출 비율을 **2% → 0.5%**로 획기적으로 감소시켜 광고 효율성을 대폭 향상.
     - 시스템 가용성과 안정성 강화로 운영 비용 절감 및 광고주 신뢰도 제고.
-  - **주요 기술 스텍**: Middleware, Notifications, Slack Webhook, PHP 7.2(Laravel 5.5), MySQL, JavaScript(jQuery)
+  - **주요 기술 스텍**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
 
 ### **CDP(Customer Data Platform) 시스템 개발** | 2020.06 - 2020.11
 
-  - **개요**: CDP(Customer Data Platform) 시스템의 일부 모듈을 설계 및 개발하여 사용자 로그인, 캠페인 생성, 문자/SNS 전송 기능과 대시보드 시스템을 구현했습니다.
+  - **개요**: CDP(Customer Data Platform) 시스템의 일부 모듈을 설계 및 개발하여 사용자 로그인, 캠페인 생성 기능과 대시보드 시스템을 구현했습니다.
   - **기여한 역할**:
     - **개발 환경 구축**: **Docker Compose**를 활용하여 개발 환경 구성 및 통합 테스트 환경 구축.
     - **CI/CD 파이프라인 구축**: **GitLab CI/CD**를 통해 운영 서버에 자동화된 배포 환경 설정.
@@ -51,6 +67,7 @@
     - **캠페인 생성 및 관리**: Laravel Blade와 Query Builder를 사용하여 캠페인 생성 및 문자/SNS 전송 기능 개발.
   - **성과**:
     - CI/CD 및 개발 환경 자동화를 통해 팀 생산성 향상에 기여하여 프로젝트가 초기에 계획된 일정보다 빠르게 서비스가 정상 오픈
+  - **주요 기술 스텍**: Docker, Gitlab CI/CD, Access Token, PHP 7.2(Laravel 5.5)
 
 ### **SSP(Supply Side Platform) 시스템 개발** | 2019.07 - 2019.12
 
