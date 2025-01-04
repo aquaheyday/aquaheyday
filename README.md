@@ -23,7 +23,7 @@
   - **정산 소요 기간 단축**: 정산 처리 시간을 **7일 → 2일**로 대폭 감소.
   - **정확성 및 효율성 강화**: 대규모 매출 데이터의 일일 정산 자동화로 운영 효율을 크게 향상.
   - **사용자 만족도 향상**: 정산 프로세스 간소화와 데이터 신뢰성 확보.
-- **주요 기술 스텍**: Mail, Eloquent ORM, Clickhouse, Cron Jobs, PHP 7.2(Laravel 6.x), MySQL, Vanilla JS
+- **주요 기술 스택**: Mail, Eloquent ORM, Clickhouse, Cron Jobs, PHP 7.2(Laravel 6.x), MySQL, Vanilla JS
 
 ### **광고 매핑 시스템 설계 및 구축** | 2022.01 - 2022.05  
 - **개요**: 광고 매체 데이터와 캠페인 데이터를 매핑하여 실시간 광고 집행 및 성과 측정을 위한 **광고 매핑 시스템**을 설계 및 구현.
@@ -55,7 +55,7 @@
 - **성과**:
   - 월 평균 광고 미송출을 **3억 건 → 5천 건**로 감소시켜 광고 효율성을 대폭 향상.
   - 시스템 가용성과 안정성 강화로 운영 비용 절감 및 광고주 신뢰도 제고.
-- **주요 기술 스텍**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
+- **주요 기술 스택**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
 
 ### **CDP(Customer Data Platform) 시스템 개발** | 2020.06 - 2020.11
 
@@ -67,7 +67,7 @@
     - **캠페인 생성 및 관리**: Laravel Blade와 Query Builder를 사용하여 캠페인 생성 및 문자/SNS 전송 기능 개발.
   - **성과**:
     - CI/CD 및 개발 환경 자동화를 통해 팀 생산성 향상에 기여하여 프로젝트가 초기에 계획된 일정보다 빠르게 서비스가 정상 오픈
-  - **주요 기술 스텍**: Docker, Gitlab CI/CD, Access Token, PHP 7.2(Laravel 5.5)
+  - **주요 기술 스택**: Docker, Gitlab CI/CD, Access Token, PHP 7.2(Laravel 5.5)
 
 ### **SSP(Supply Side Platform) 시스템 개발** | 2019.07 - 2019.12
 
