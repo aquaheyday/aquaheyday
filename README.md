@@ -2,8 +2,12 @@
 ### Software Developer | Full-Stack Engineer
 ## Hi there 👋
 
+---
+
 ## About Me
 -  I’m currently working on [current project or technology focus]
+
+---
 
 ## Skills
 
@@ -25,7 +29,11 @@
 - DataGrip, HeidiSQL  
 - Notion, Slack, Trello, Jira, Asana  
 
+---
+
 ## Professional Experience
+
+---
 
 ## Projects
 
@@ -120,6 +128,8 @@
   - 월 평균 **30억 건의 입찰 요청**을 처리할 수 있는 안정적인 시스템 구축.
   - **1년간 운영 중 오류 0회**를 달성하여 높은 신뢰성과 안정성을 입증.
 - **주요 기술 스택**: RESTfull API, Auth, QueryBuilder, PHP 7.2(Laravel 5.5), MySQL, Javscript(JQuery)
+
+---
 
 ## Let's Connect
 
