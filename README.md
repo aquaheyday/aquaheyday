@@ -52,10 +52,10 @@
   - **오류 알림 기능 개발**: **Slack Incoming Webhook**과 **Laravel Notifications**를 활용해 실시간 오류 알림 시스템 구축.
   - **쿼리 최적화**: **Laravel Query Builder**를 사용해 성능 향상을 위한 데이터 처리 구현.
   - **UI 및 프론트엔드 개발**: **Laravel Blade**와 **jQuery**를 이용한 광고 설정 시스템의 사용자 인터페이스 개발.
-  - **성과**:
-    - 광고 미송출 비율을 **2% → 0.5%**로 획기적으로 감소시켜 광고 효율성을 대폭 향상.
-    - 시스템 가용성과 안정성 강화로 운영 비용 절감 및 광고주 신뢰도 제고.
-  - **주요 기술 스텍**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
+- **성과**:
+  - 광고 미송출 비율을 **2% → 0.5%**로 획기적으로 감소시켜 광고 효율성을 대폭 향상.
+  - 시스템 가용성과 안정성 강화로 운영 비용 절감 및 광고주 신뢰도 제고.
+- **주요 기술 스텍**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
 
 ### **CDP(Customer Data Platform) 시스템 개발** | 2020.06 - 2020.11
 
