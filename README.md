@@ -5,19 +5,53 @@
 # About Me
 -  I’m currently working on [current project or technology focus]
 
+## Skills
+
+### Frontend
+- **Languages & Frameworks**: HTML5, CSS3, JavaScript, Dart  
+- **Libraries**: jQuery, React, Vue  
+- **Cross-Platform Development**: Flutter
+
+### Backend
+- **Languages**: PHP, Python, Java   
+- **Frameworks**: Laravel, Codeignite, FastAPI, Flask  
+
+### DevOps
+- **Databases**: MySQL, Clickhouse
+- **Cloud Services**: AWS
+- **Version Control & CI/CD**: Git, GitLab, TeamCity, Jenkins
+- **Monitoring & Automation**: Slack
+- **Web Servers**: Nginx, Apache  
+- **OS & Containerization**: Linux (Ubuntu, CentOS), Docker
+
+### Tools
+- **IDEs & Editors**: IntelliJ IDEA, VSCode, Vim  
+- **Database Tools**: DataGrip, HeidiSQL  
+- **Collaboration Tools**: Notion, Slack, Hiworks, Trello, Jira, Asana
+
+
 # Professional Experience
 
 # Projects
 
-### **** | 2024.05 - 2024.10
+### **** | 2024.06 - 2024.10
 
-### **채용 플랫폼 구축** | 2024.01 - 2024.04
-- **개요**: 기업과 구직자를 연결하는 채용 플랫폼 설계 및 구현
+### **채용 플랫폼 구축** | 2023.11 - 2024.01
+- **개요**: 프로젝트 리더로서 전반적인 설계, 개발, 배포를 주도하여 기업과 구직자를 연결하는 채용 플랫폼 설계 및 개발하였습니다.
 - **역할**:
-  - 
+  - **프로젝트 리드**: 3명의 팀원과 협업하여 프로젝트 기획부터 완료까지 전 과정 주도
+  - **AWS 기반 인프라 설계 및 구축**:
+    - **EC2**: Laravel 웹 애플리케이션 서버 배포 및 최적화
+    - **RDS**: MySQL 데이터베이스 설계 및 관리
+    - **Route 53**: 도메인 네임 서비스(DNS) 설정 및 관리
+    - **ACM**: SSL 인증서 발급 및 HTTPS 적용으로 웹사이트 보안 강화
+    - **ALB**: AWS Application Load Balancer를 사용해 트래픽 분산 및 고가용성 환경 구축
+  - **CI/CD 파이프라인**: Git과 TeamCity를 활용한 자동 배포 프로세스 설계 및 구축
+  - **문제 해결**: 프로젝트 진행 중 발생한 서버 성능 문제를 디버깅 및 최적화하여 속도를 30% 개선
+- **성과**: 팀 내 효율적인 커뮤니케이션과 일정 관리로 프로젝트를 예정 기한보다 2주 단축하여 완료
+- **주요 기술 스택**: AWS (EC2, RDS, Route 53, ACM, ALB), TeamCity, Git, PHP 8.1(Laravel 10), MySQL 8.0
 
-
-### **매출 정산 자동화 시스템 구축** | 2023.04 - 2023.09
+### **매출 정산 자동화 시스템 구축** | 2023.02 - 2023.09
 - **개요**: 월 100억 원 규모의 매출 데이터를 처리하기 위한 **일일 정산 시스템**을 설계 및 개발했습니다. 500여 매체의 데이터를 기반으로 사업자/계좌 조회, 세금계산서 처리, 추가/제외 정산금 관리 등 정산 관련 프로세스를 자동화하여 정산 효율성을 대폭 향상시켰습니다.
 - **역할**:
   - **시스템 설계 및 DB 구조 개발**:
@@ -92,7 +126,7 @@
 - **주요 기술 스택**: RESTfull API, Auth, QueryBuilder, PHP 7.2(Laravel 5.5), MySQL, Javscript(JQuery)
 
 
-# Skills
+
 
 # Let's Connect
 
