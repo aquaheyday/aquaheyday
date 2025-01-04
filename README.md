@@ -9,7 +9,7 @@
 
 ### Frontend
 - HTML5, CSS3, JavaScript (ES6), Dart  
-- jQuery, React, Vue, Flutter
+- Flutter, React, Vue, jQuery
 
 ### Backend
 - PHP, Python, Java  
