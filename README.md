@@ -8,27 +8,22 @@
 ## Skills
 
 ### Frontend
-- **Languages & Frameworks**: HTML5, CSS3, JavaScript, Dart  
-- **Libraries**: jQuery, React, Vue  
-- **Cross-Platform Development**: Flutter
+- HTML5, CSS3 (SCSS), JavaScript (ES6), Dart  
+- jQuery, React, Vue, Flutter
 
 ### Backend
-- **Languages**: PHP, Python, Java   
-- **Frameworks**: Laravel, Codeignite, FastAPI, Flask  
+- PHP, Python, Java  
+- Laravel, Codeigniter, FastAPI, Flask
 
 ### DevOps
-- **Databases**: MySQL, Clickhouse
-- **Cloud Services**: AWS
-- **Version Control & CI/CD**: Git, GitLab, TeamCity, Jenkins
-- **Monitoring & Automation**: Slack
-- **Web Servers**: Nginx, Apache  
-- **OS & Containerization**: Linux (Ubuntu, CentOS), Docker
+- MySQL, Clickhouse  
+- AWS, Docker, Nginx, Ubuntu, CentOS
+- Git, GitLab, Jenkins, TeamCity
 
 ### Tools
-- **IDEs & Editors**: IntelliJ IDEA, VSCode, Vim  
-- **Database Tools**: DataGrip, HeidiSQL  
-- **Collaboration Tools**: Notion, Slack, Hiworks, Trello, Jira, Asana
-
+- IntelliJ, VSCode, Vim  
+- DataGrip, HeidiSQL  
+- Notion, Slack, Trello, Jira, Asana  
 
 # Professional Experience
 
