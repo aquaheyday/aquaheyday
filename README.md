@@ -86,7 +86,6 @@
 - **주요 기술 스택**: Procedure, Cron, Console, QueryBuilder, PHP 7.2(Laravel 6.x), MySQL, Javscript
 
 ### **광고 설정 시스템 고도화** | 2021.01 - 2021.09
-
 - **개요**: 광고 송출 과정에서 발생하는 약 2%의 광고 미송출 현상을 개선하기 위해 광고 설정 시스템을 리엔지니어링했습니다. 주도적으로 다양한 팀과 협업하여 시스템 성능을 최적화하고 안정성을 강화하여 광고 누수를 최소화했습니다.
 - **역할**:
   - **시스템 리엔지니어링**:
@@ -104,7 +103,6 @@
 - **주요 기술 스택**: Middleware, Notifications, Slack Webhook, Vanilla JS, PHP 7.2(Laravel 6.x), MySQL
 
 ### **CDP(Customer Data Platform) 시스템 개발** | 2020.06 - 2020.11
-
   - **개요**: CDP(Customer Data Platform) 시스템의 일부 모듈을 설계 및 개발하여 사용자 로그인, 캠페인 생성 기능과 대시보드 시스템을 구현했습니다.
   - **기여한 역할**:
     - **개발 환경 구축**: **Docker Compose**를 활용하여 개발 환경 구성 및 통합 테스트 환경 구축.
@@ -116,7 +114,6 @@
   - **주요 기술 스택**: Docker, Gitlab CI/CD, Access Token, PHP 7.2(Laravel 5.5)
 
 ### **SSP(Supply Side Platform) 시스템 개발** | 2019.07 - 2019.12
-
 - **개요**: 디지털 광고 RTB(Real-Time Bidding) 기반으로 광고 매체의 수익성을 극대화하고, 퍼블리셔가 효율적으로 광고 지면을 관리할 수 있는 고성능 SSP 시스템 구축.
 - **역할**:
   - **관계형 데이터베이스 설계**: 광고 지면 및 사용자 데이터를 효율적으로 관리하기 위한 DB 구조 설계.
