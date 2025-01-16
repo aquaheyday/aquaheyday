@@ -1,5 +1,5 @@
 # 김 병 준
-### Software Developer | Full-Stack Engineera
+### Software Developer | Full-Stack Engineer
 
 ---
 
