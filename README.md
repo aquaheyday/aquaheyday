@@ -13,7 +13,7 @@
 - Flutter, React, Vue, jQuery
 
 ### Backend
-- PHP, Go, Python, Java
+- PHP, Golang, Python, Java
 - Laravel, Codeigniter, FastAPI, Flask
 
 ### DevOps
