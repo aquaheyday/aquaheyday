@@ -36,4 +36,4 @@
 ## 📫 **연락 & 블로그**
 - ✉️ **Email:** aquaheyday@gmail.com  
 - 📖 **Blog:** [aquaheyday.tistory.com](https://aquaheyday.tistory.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 **LinkedIn:** [linkedin.com/in/kimbyoungjun](https://www.linkedin.com/in/kimbyoungjun)  
