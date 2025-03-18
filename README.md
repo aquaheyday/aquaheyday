@@ -6,6 +6,15 @@
 
 ---
 
+## 📂 저장소 목록
+
+| 폴더명 | 경로 | 설명 |
+|---|---|---|
+| 개발 언어 학습 | [language-archive](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
+| 데이터베이스 학습 | [examples](./examples) | 주요 기능별 예제 코드 (컴포넌트, 상태관리 등) |
+| 알고리즘 & 문제해결 | [projects](./projects) | 미니 프로젝트 및 실습 프로젝트 |
+| 독서 목록 | |  |
+
 ## 저장소 목록
 ### [language-archive](https://github.com/aquaheyday/language-archive) `📌 Public`
 > **프로그래밍 언어 학습 아카이브**  
