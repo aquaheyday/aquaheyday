@@ -6,8 +6,8 @@
 
 ---
 
-## 📚 **저장소 목록 및 설명**
-### 🔹 [language-archive](https://github.com/yourusername/language-archive) `📌 Public`
+## 저장소 목록
+### [language-archive](./language-archive) `📌 Public`
 > **프로그래밍 언어 학습 아카이브**  
 > 다양한 프로그래밍 언어에 대한 예제 코드, 학습 자료, 베스트 프랙티스를 정리하는 저장소입니다.  
 > **주요 언어:** PHP, Java, JavaScript, Python, Flutter, Go, React  
