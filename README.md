@@ -8,13 +8,13 @@
 
 ## 📂 저장소 목록
 
-| 폴더명 | 경로 | 설명 |
-|---|---|---|
-| 개발 언어 학습 | [language](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
-| 시스템 아키텍처 학습 | [system-design](https://github.com/aquaheyday/system-design-archive) |  |
-| 머신러닝 학습 | [ml](https://github.com/aquaheyday/ml-archive) |  |
-| 알고리즘 & 문제해결 | [algorithm](https://github.com/aquaheyday/algorithm-archive) | 미니 프로젝트 및 실습 프로젝트 |
-| 독서 목록 | [reading-log](https://github.com/aquaheyday/reading-log) |  |
+| 번호 | 저장소명 | 저장소 경로 | 설명 |
+|---|---|---|---|
+| 01 | 개발 언어 학습 | [language](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
+| 02 | 시스템 아키텍처 학습 | [system-design](https://github.com/aquaheyday/system-design-archive) |  |
+| 03 | 머신러닝 학습 | [machine-learning](https://github.com/aquaheyday/ml-archive) |  |
+| 04 | 알고리즘 & 문제해결 | [algorithm](https://github.com/aquaheyday/algorithm-archive) | 미니 프로젝트 및 실습 프로젝트 |
+| 05 | 독서 목록 | [reading-log](https://github.com/aquaheyday/reading-log) |  |
 
 ---
 
