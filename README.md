@@ -1,4 +1,4 @@
-# 🚀 GitHub Overview
+# 🚀 깃허브 저장소 소개
 
 안녕하세요! 👋  
 이 저장소들은 제가 학습한 내용을 정리하고 공유하는 공간입니다.  
@@ -11,16 +11,10 @@
 | 번호 | 저장소명 | 저장소 경로 | 설명 |
 |---|---|---|---|
 | 01 | 개발 언어 학습 | [language](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
-| 02 | 시스템 아키텍처 학습 | [system-design](https://github.com/aquaheyday/system-design-archive) |  |
-| 03 | 머신러닝 학습 | [machine-learning](https://github.com/aquaheyday/ml-archive) |  |
-| 04 | 알고리즘 & 문제해결 | [algorithm](https://github.com/aquaheyday/algorithm-archive) | 미니 프로젝트 및 실습 프로젝트 |
-| 05 | 독서 목록 | [reading-log](https://github.com/aquaheyday/reading-log) |  |
-
----
-
-## 🏆 **기록 & 목표**
-- **학습한 내용을 기록하여 공유하고 정리**하여 나만의 기술 문서를 만들기 📚  
-- **실제 프로젝트에 적용할 수 있도록 학습 내용을 실험해보기** 🚀  
+| 02 | 시스템 아키텍처 학습 | [system-design](https://github.com/aquaheyday/system-design-archive) | 시스템 설계, 아키텍처 패턴 및 대규모 시스템 설계를 학습하고 정리하는 저장소입니다. |
+| 03 | 머신러닝 학습 | [machine-learning](https://github.com/aquaheyday/ml-archive) | 머신러닝 및 인공지능 관련 이론과 실습을 정리하는 저장소입니다. |
+| 04 | 알고리즘 & 문제 해결 | [algorithm](https://github.com/aquaheyday/algorithm-archive) | 알고리즘 문제 풀이, 자료구조 연습 및 미니 프로젝트를 포함한 저장소입니다. |
+| 05 | 독서 목록 | [reading-log](https://github.com/aquaheyday/reading-log) | 개발 관련 서적 및 논문을 읽고 요약한 내용을 기록하는 저장소입니다. |
 
 ---
 
@@ -33,7 +27,7 @@
 
 ---
 
-## 📫 **연락 & 블로그**
-- ✉️ **Email:** aquaheyday@gmail.com  
-- 📖 **Blog:** [aquaheyday.tistory.com](https://aquaheyday.tistory.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/kimbyoungjun](https://www.linkedin.com/in/kimbyoungjun)  
+## 🤝 Contact
+- ✉️ **이메일:** aquaheyday@gmail.com  
+- 📖 **블로그:** [aquaheyday.tistory.com](https://aquaheyday.tistory.com)  
+- 💼 **링크드인:** [linkedin.com/in/kimbyoungjun](https://www.linkedin.com/in/kimbyoungjun)  
