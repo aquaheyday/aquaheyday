@@ -10,8 +10,7 @@
 
 | 번호 | 저장소명 | 저장소 경로 | 설명 |
 |---|---|---|---|
-| 01 | 개발 언어 학습 | [language](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
-| 02 | 데이터베이스 학습 | [database](https://github.com/aquaheyday/database-archive) | 관계형 데이터베이스(MySQL, PostgreSQL) 및 NoSQL(MongoDB, Redis 등) 개념, 쿼리 최적화, 데이터 모델링 및 실습 자료를 정리하는 저장소입니다. |
+| 01 | 개발 관련 학습 | [language](https://github.com/aquaheyday/language-archive) | 프로그래밍 언어 및 기술 스택을 정리하고 실습한 자료를 보관하는 저장소입니다. |
 | 02 | 시스템 아키텍처 학습 | [system-design](https://github.com/aquaheyday/system-design-archive) | 시스템 설계, 아키텍처 패턴 및 대규모 시스템 설계를 학습하고 정리하는 저장소입니다. |
 | 03 | 머신러닝 학습 | [machine-learning](https://github.com/aquaheyday/ml-archive) | 머신러닝 및 인공지능 관련 이론과 실습을 정리하는 저장소입니다. |
 | 04 | 알고리즘 & 문제 해결 | [algorithm](https://github.com/aquaheyday/algorithm-archive) | 알고리즘 문제 풀이, 자료구조 연습 및 미니 프로젝트를 포함한 저장소입니다. |
