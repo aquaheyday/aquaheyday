@@ -30,9 +30,9 @@ Welcome to my **Portfolio**.
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/application/nextjs-green-blue-deploy) | 블루-그린 무중단 배포 구성 | `Docker`, `Nginx`, `GitHub Actions` |
-| `golang-api` | Go 기반 컨테이너 API 구성 | `Go`, `Docker`, `PostgreSQL` |
-| `laravel-mysql` | Laravel + MySQL 개발 환경 구성 | `Laravel`, `Docker Compose` |
+| [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | 블루-그린 무중단 배포 구성 | `Docker`, `Nginx`, `GitHub Actions` |
+| [golang-api](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) | Go 기반 컨테이너 API 구성 | `Go`, `Docker`, `PostgreSQL` |
+| [laravel-mysql](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | Laravel + MySQL 개발 환경 구성 | `Laravel`, `Docker Compose` |
 
 ### 🤖 Machine Learning
 
