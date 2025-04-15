@@ -20,11 +20,11 @@ Welcome to my **Portfolio**.
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
 | [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` |
-| [menu-order-api](./application/menu-order-api) | 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` |
-| [menu-order-web-front](./application/menu-order-web-front) | 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` |
-| [queue-ticket](./application/queue-ticket) | 실시간 대기열 관리 시스템 | `Laravel` | 
-| [restful-admin-crud](./application/restful-admin-crud) | 관리자용 CRUD RESTful API | `Go` |
-| [vite-ts-scss-admin-dashboard](./application/vite-ts-scss-admin-dashboard) | 관리자 대시보드 (프론트) | `Vite`, `TypeScript`, `SCSS` | 
+| [menu-order-api](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` |
+| [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) | 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` |
+| [queue-ticket](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) | 실시간 대기열 관리 시스템 | `Laravel` | 
+| [restful-admin-crud](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | 관리자용 CRUD RESTful API | `Go` |
+| [vite-ts-scss-admin-dashboard](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) | 관리자 대시보드 (프론트) | `Vite`, `TypeScript`, `SCSS` | 
 
 ### 🐳 DevOps & Container Practice
 
