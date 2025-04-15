@@ -38,7 +38,7 @@ Welcome to my **Portfolio**.
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| `mnist_cnn_model` | 손글씨 분류 CNN 모델 학습 | `TensorFlow`, `Keras`, `CNN`, `Augmentation`, `Visualization` |
+| [mnist_cnn_model](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) | 손글씨 분류 CNN 모델 학습 | `TensorFlow`, `Keras`, `CNN`, `Augmentation`, `Visualization` |
 
 ---
 
