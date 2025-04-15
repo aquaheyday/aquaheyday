@@ -19,7 +19,7 @@ Welcome to my **Portfolio**.
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [delivery-api-server]([https://github.com/aquaheyday/study-log/projects/application/delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server)) | 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` |
+| [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` |
 | [menu-order-api](./application/menu-order-api) | 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` |
 | [menu-order-web-front](./application/menu-order-web-front) | 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` |
 | [queue-ticket](./application/queue-ticket) | 실시간 대기열 관리 시스템 | `Laravel` | 
