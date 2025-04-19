@@ -87,7 +87,7 @@ Welcome to my **Portfolio**.
 
 ### 📂 관련 문서
 
-- [agile-adoption.md](https://github.com/aquaheyday/study-log/tree/main/reflections/2025/agile-adoption.md) — 애자일 도입기 & 회고
+- [agile-adoption.md](https://github.com/aquaheyday/reflection-log/tree/main/2025/agile-adoption.md) — 애자일 도입기 & 회고
 
 > 💬 좋은 프로덕트를 만들기 위해선 함께 일하는 방법도 중요하다고 믿습니다.
 
