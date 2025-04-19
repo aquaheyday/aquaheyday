@@ -51,6 +51,16 @@ Welcome to my **Portfolio**.
 
 ---
 
+## 📝 GitHub Contributions
+
+### 📋 GitHub Issue 목록
+
+| 번호 | 주제 | 파일명 | 설명 |
+|---|---|---|---|
+| 1 | GitHub Actions Not Working | [sanga-1-fix-github-action-not-working.md](./issues/sanga-1-fix-github-action-not-working.md) | 깃허브 엑션이 동작하지않는 이슈 해결 |
+
+---
+
 ## ✍ 기술 성장 스토리
 
 - **직접 프로젝트로 구현하고**,  
