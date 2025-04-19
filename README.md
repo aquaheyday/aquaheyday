@@ -42,6 +42,15 @@ Welcome to my **Portfolio**.
 
 ---
 
+## Troubleshooting
+
+| 프로젝트 | 설명 | 기술 스택 |
+|----------|------|-----------|
+| Docker `no space left on device` | [docker-image-disk-full.md](./docker/docker-image-disk-full.md) | Docker로 Blue/Green 배포시 `no space left on device` 오류 |
+| Next.js + Apache Revers Proxy `CORS` | [nextjs-api-cors-error.md](./nextjs/nextjs-api-cors-error.md) | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 |
+
+---
+
 ## ✍ 기술 성장 스토리
 
 - **직접 프로젝트로 구현하고**,  
