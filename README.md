@@ -32,12 +32,12 @@ Welcome to my **Portfolio**.
 
 | 프로젝트명 | 기술 스택 | 경로 |
 |----------|------|-----------|
-| 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` | [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) |
-| 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` | [menu-order-api](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) |
-| 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
-| 실시간 대기열 관리 시스템 | `Laravel` | [queue-ticket](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) |
-| 관리자용 CRUD RESTful API | `Go` | [restful-admin-crud](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) |
-| 관리자 대시보드 (프론트) | `Vite`, `TypeScript`, `SCSS` | [vite-ts-scss-admin-dashboard](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) |
+| 택배사 조회 서비스 API 서버 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> | [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) |
+| 커피 주문 시스템 API 서버 | <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> | [menu-order-api](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) |
+| 커피 주문 시스템 웹 (프론트) | <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
+| 실시간 대기열 관리 시스템 | <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> | [queue-ticket](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) |
+| 관리자용 CRUD RESTful API | <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> | [restful-admin-crud](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) |
+| 관리자 대시보드 (프론트) | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> | [vite-ts-scss-admin-dashboard](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) |
 
 ### 🐳 DevOps & Container Practice
 
