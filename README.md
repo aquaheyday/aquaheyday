@@ -30,37 +30,37 @@ Welcome to my **Portfolio**.
 
 ### 💡Application Projects
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 프로젝트명 | 기술 스택 | 경로 |
 |----------|------|-----------|
-| [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` |
-| [menu-order-api](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` |
-| [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) | 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` |
-| [queue-ticket](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) | 실시간 대기열 관리 시스템 | `Laravel` | 
-| [restful-admin-crud](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | 관리자용 CRUD RESTful API | `Go` |
-| [vite-ts-scss-admin-dashboard](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) | 관리자 대시보드 (프론트) | `Vite`, `TypeScript`, `SCSS` | 
+| 택배사 조회 서비스 API 서버 | `Python`, `FastAPI`, `pymysql` | [delivery-api-server](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) |
+| 커피 주문 시스템 API 서버 | `Nginx`, `Laravel`, `MySQL` | [menu-order-api](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) |
+| 커피 주문 시스템 웹 (프론트) | `Nginx`, `Flutter` | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
+| 실시간 대기열 관리 시스템 | `Laravel` | [queue-ticket](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) |
+| 관리자용 CRUD RESTful API | `Go` | [restful-admin-crud](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) |
+| 관리자 대시보드 (프론트) | `Vite`, `TypeScript`, `SCSS` | [vite-ts-scss-admin-dashboard](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) |
 
 ### 🐳 DevOps & Container Practice
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 프로젝트명 | 기술 스택 | 경로 |
 |----------|------|-----------|
-| [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | 블루-그린 무중단 배포 구성 | `Docker`, `Nginx`, `GitHub Actions` |
-| [golang-api](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) | Go 기반 컨테이너 API 구성 | `Go`, `Docker`, `PostgreSQL` |
-| [laravel-mysql](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | Laravel + MySQL 개발 환경 구성 | `Laravel`, `Docker Compose` |
+| 블루-그린 무중단 배포 구성 | `Docker`, `Nginx`, `GitHub Actions` | [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) |
+| Go 기반 컨테이너 API 구성 | `Go`, `Docker`, `PostgreSQL` | [golang-api](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) |
+| Laravel + MySQL 개발 환경 구성 | `Laravel`, `Docker Compose` | [laravel-mysql](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) |
 
 ### 🤖 Machine Learning
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 프로젝트명 | 기술 스택 | 경로 |
 |----------|------|-----------|
-| [mnist_cnn_model](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) | 손글씨 분류 CNN 모델 학습 | `TensorFlow`, `Keras`, `CNN`, `Augmentation`, `Visualization` |
+| 손글씨 분류 CNN 모델 학습 | `TensorFlow`, `Keras`, `CNN`, `Augmentation`, `Visualization` | [mnist_cnn_model](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) |
 
 ---
 
-## Troubleshooting
+## 🧯 Troubleshooting
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 주제 | 설명 | 경로 |
 |----------|------|-----------|
-| Docker `no space left on device` | [docker-image-disk-full.md](./docker/docker-image-disk-full.md) | Docker로 Blue/Green 배포시 `no space left on device` 오류 |
-| Next.js + Apache Revers Proxy `CORS` | [nextjs-api-cors-error.md](./nextjs/nextjs-api-cors-error.md) | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 |
+| Docker `no space left on device` | Docker로 Blue/Green 배포시 `no space left on device` 오류 | [docker-image-disk-full.md](./docker/docker-image-disk-full.md) |
+| Next.js + Apache Revers Proxy `CORS` | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 | [nextjs-api-cors-error.md](./nextjs/nextjs-api-cors-error.md) |
 
 ---
 
@@ -68,9 +68,9 @@ Welcome to my **Portfolio**.
 
 ### 📋 GitHub Issue 목록
 
-| 번호 | 주제 | 파일명 | 설명 |
-|---|---|---|---|
-| 1 | GitHub Actions Not Working | [sanga-1-fix-github-action-not-working.md](./issues/sanga-1-fix-github-action-not-working.md) | 깃허브 엑션이 동작하지않는 이슈 해결 |
+| 주제 | 설명 | 경로 |
+|---|---|---|
+| GitHub Actions Not Working | 깃허브 엑션이 동작하지않는 이슈 해결 | [sanga-1-fix-github-action-not-working.md](./issues/sanga-1-fix-github-action-not-working.md) |
 
 ---
 
