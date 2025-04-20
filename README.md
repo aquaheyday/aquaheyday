@@ -13,6 +13,19 @@ Welcome to my **Portfolio**.
 
 ---
 
+## 🌐 Study Log
+
+| 프로젝트 | 설명 |
+|----------|------|
+| [cloud](https://github.com/aquaheyday/study-log/tree/main/topics/cloud) | 클라우드 인프라 및 서비스 |
+| [cs](https://github.com/aquaheyday/study-log/tree/main/topics/cs) | Computer Science 내용 |
+| [database](https://github.com/aquaheyday/study-log/tree/main/topics/database) | 데이터베이스 학습 내용 |
+| [language](https://github.com/aquaheyday/study-log/tree/main/topics/language) | 언어 및 프레임워크 학습  |
+| [security](https://github.com/aquaheyday/study-log/tree/main/topics/security) | 보안 학습 |
+| [web](https://github.com/aquaheyday/study-log/tree/main/topics/web) | 웹 개발 학습 | 
+
+---
+
 ## 🚀 Highlight Projects
 
 ### 💡Application Projects
