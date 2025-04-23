@@ -33,7 +33,7 @@ Welcome to my **Portfolio**.
 | 번호 | 프로젝트명 | 설명 | 기술 스택 |
 |:--:|----------|----------|-----------|
 | 1 | [택배사 배송 조회 RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | 20 ~ 20 | ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| 2  | [커피 주문 시스템 API](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| 2  | [커피 주문 시스템 API](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | 3 | [커피 주문 시스템 웹](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) | 20 ~ 20 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
 | 4 | [실시간 대기열 관리 시스템](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | 
 | 5 | [관리자용 CRUD RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | 20 ~ 20 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
@@ -43,7 +43,7 @@ Welcome to my **Portfolio**.
 
 | 번호 | 프로젝트명 | 설명 | 기술 스택  |
 |:--:|------|-----------|-----------|
-| 1 | [블루-그린 무중단 배포 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | 설명 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| 1 | [블루-그린 무중단 배포 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | 설명 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |
 | 2 | [Go 기반 컨테이너 API 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) | 설명 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) `PostgreSQL` |
 | 3 | [Laravel + MySQL 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | | `Laravel`, `Docker Compose` |
 
