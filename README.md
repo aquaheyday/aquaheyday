@@ -41,9 +41,9 @@ Welcome to my **Portfolio**.
 
 ### 🐳 DevOps & Container Practice
 
-| 프로젝트명 | 기술 스택 | 경로 |
-|----------|------|-----------|
-| 블루-그린 무중단 배포 구성 | [Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) |
+| 번호 | 프로젝트명 | 기술 스택  |
+|:--:|------|-----------|
+| 1 | [블루-그린 무중단 배포 구성](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [nextjs-green-blue-deploy](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) |
 | Go 기반 컨테이너 API 구성 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) [Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) `PostgreSQL` | [golang-api](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) |
 | Laravel + MySQL 개발 환경 구성 | `Laravel`, `Docker Compose` | [laravel-mysql](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) |
 
