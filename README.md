@@ -30,14 +30,14 @@ Welcome to my **Portfolio**.
 
 ### 💡Application Projects
 
-| 프로젝트명 | 설명 | 기간 | 기술 스택 |
-|----------|---|----------|-----------|
-| [택배사 배송 조회 RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | | 20 ~ 20 | ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| [커피 주문 시스템 API](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 팀내 커피 메뉴 주문 처리 및 배달원 선정을 위한 RESTful API입니다. Laravel 프레임워크를 사용하여 백엔드 시스템을 구현하였습니다. | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
-| [커피 주문 시스템 웹](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) | | 20 ~ 20 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
-| [실시간 대기열 관리 시스템](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) | | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | 
-| [관리자용 CRUD RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | | 20 ~ 20 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| [관리자 대시보드](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) | | 20 ~ 20 | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| 프로젝트명 | 기간 | 기술 스택 |
+|----------|----------|-----------|
+| [택배사 배송 조회 RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/delivery-api-server) | 20 ~ 20 | ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| [커피 주문 시스템 API](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-api) | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| [커피 주문 시스템 웹](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) | 20 ~ 20 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) | [menu-order-web-front](https://github.com/aquaheyday/study-log/tree/main/projects/application/menu-order-web-front) |
+| [실시간 대기열 관리 시스템](https://github.com/aquaheyday/study-log/tree/main/projects/application/queue-ticket) | 20 ~ 20 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | 
+| [관리자용 CRUD RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | 20 ~ 20 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| [관리자 대시보드](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) | 20 ~ 20 | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 ### 🐳 DevOps & Container Practice
 
