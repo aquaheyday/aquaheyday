@@ -57,10 +57,10 @@ Welcome to my **Portfolio**.
 
 ## 🧯 Troubleshooting
 
-| 번호 | 주제 | 설명 | 경로 |
+| 번호 | 주제 | 설명 | 기술 스택 |
 |:--:|----------|------|-----------|
-| 1 | [Docker `no space left on device`](./docker/docker-image-disk-full.md) | | Docker로 Blue/Green 배포시 `no space left on device` 오류 |
-| 2  | [Next.js + Apache Revers Proxy `CORS`](./nextjs/nextjs-api-cors-error.md) | | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 |
+| 1 | [Docker `no space left on device`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/docker/docker-image-disk-full.md) | Docker로 Blue/Green 배포시 `no space left on device` 오류 | |
+| 2  | [Next.js + Apache Revers Proxy `CORS`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 | |
 
 ---
 
@@ -68,9 +68,9 @@ Welcome to my **Portfolio**.
 
 ### 📋 GitHub Issue 목록
 
-| 주제 | 설명 | 경로 |
-|---|---|---|
-| GitHub Actions Not Working | 깃허브 엑션이 동작하지않는 이슈 해결 | [sanga-1-fix-github-action-not-working.md](./issues/sanga-1-fix-github-action-not-working.md) |
+| 번호 | 주제 | 설명 | 기술 스택 |
+|:--:|---|---|---|
+| 1 | [GitHub Actions Not Working](https://github.com/aquaheyday/study-log/blob/main/contributions/issues/sanga-1-fix-github-action-not-working.md) | 깃허브 엑션이 동작하지않는 이슈 해결 |
 
 ---
 
