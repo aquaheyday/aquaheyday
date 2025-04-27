@@ -44,8 +44,11 @@ Welcome to my **Portfolio**.
 | 번호 | 프로젝트명 | 기술 스택  |
 |:--:|------|-----------|
 | 1 | [블루-그린 무중단 배포 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |
-| 2 | [Go 기반 컨테이너 API 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api)  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| 2 | [Go 기반 컨테이너 API 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 | 3 | [Laravel + MySQL 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| 4 | [Next.js 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |
+| 5 | [React 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/react) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) |
+| 6 | [Redis 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/redis) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
 
 ### 🤖 Machine Learning
 
