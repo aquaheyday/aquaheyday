@@ -7,9 +7,35 @@ Welcome to my **Portfolio**.
 
 ---
 
-## 🔍 About This Repository
+## 🌐 Study Log
 
-이 깃허브는 단순한 코드 저장소가 아닌, **학습 + 실습 + 실전 적용**을 통합한 저만의 기술 위키입니다.
+### ☁️ Cloud Engineering
+- **주요 기술**: AWS, GCP, CI/CD, Terraform  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/cloud)
+
+### 🖥️ Computer Science
+- **학습 주제**: 자료구조, 네트워크, 운영체제  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/cs)
+
+### 🛢️ Database Systems
+- **핵심 주제**: SQL 최적화, 인덱스 튜닝  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/database)
+
+### 💻 Programming Languages
+- **다루는 언어**: Python, Go, PHP, TypeScript  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/language)
+
+### 🔒 Security
+- **주요 주제**: 암호화, 인증/인가, 보안 위협 대응  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/security)
+
+### 🌐 Web Development
+- **포커스**: 프론트엔드와 백엔드 통합 개발  
+- [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/web)
+
+### 📚 Leading Book
+- **포커스**: 읽은 도서 목록
+- [학습 기록 보기](https://github.com/aquaheyday/reading-log/blob/main/book-list.md)
 
 ---
 
@@ -41,7 +67,7 @@ Welcome to my **Portfolio**.
 
 | 번호 | 프로젝트명 | 기술 스택 |
 |:--:|----------|-----------|
-| 1  | [손글씨 분류 CNN 모델 학습](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-4B8BBE?logo=python&logoColor=white) ![Augmentation](https://img.shields.io/badge/Augmentation-9C27B0) ![Visualization](https://img.shields.io/badge/Visualization-03A9F4) |
+| 1 | [손글씨 분류 CNN 모델 학습](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-4B8BBE?logo=python&logoColor=white) ![Augmentation](https://img.shields.io/badge/Augmentation-9C27B0) ![Visualization](https://img.shields.io/badge/Visualization-03A9F4) |
 
 ---
 
@@ -50,7 +76,7 @@ Welcome to my **Portfolio**.
 | 번호 | 주제 | 기술 스택 |
 |:--:|----------|-----------|
 | 1 | [Docker로 Blue/Green 배포시 `no space left on device` 오류](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/docker/docker-image-disk-full.md) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) |
-| 2  | [Next.js + Apache Reverse Proxy 환경에서 CORS 오류](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) ![Reverse Proxy](https://img.shields.io/badge/Reverse%20Proxy-000000?logo=jsonwebtokens&logoColor=white) |
+| 2 | [Next.js + Apache Reverse Proxy 환경에서 CORS 오류](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) ![Reverse Proxy](https://img.shields.io/badge/Reverse%20Proxy-000000?logo=jsonwebtokens&logoColor=white) |
 | 3 | [`Apache` access_log, error_log 파일 용량 폭주 문제](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/apache/log-overgrowth-and-rotatelogs.md) | ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) ![Rotatelogs](https://img.shields.io/badge/Rotatelogs-000000?logo=jsonwebtokens&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white) |
 
 ---
@@ -84,17 +110,6 @@ Welcome to my **Portfolio**.
 - [agile-adoption.md](https://github.com/aquaheyday/reflection-log/tree/main/2025/agile-adoption.md) — 애자일 도입기 & 회고
 
 > 💬 좋은 프로덕트를 만들기 위해선 함께 일하는 방법도 중요하다고 믿습니다.
-
----
-
-## 🌐 Study Log
-
-- ☁️ **[Cloud](https://github.com/aquaheyday/study-log/tree/main/topics/cloud)**: AWS, GCP, CI/CD, Terraform
-- 🖥️ **[CS](https://github.com/aquaheyday/study-log/tree/main/topics/cs)**: 자료구조, 네트워크, 운영체제
-- 🛢️ **[Database](https://github.com/aquaheyday/study-log/tree/main/topics/database)**: SQL 최적화, 인덱스 튜닝
-- 💻 **[Language](https://github.com/aquaheyday/study-log/tree/main/topics/language)**: Python, Go, PHP, TypeScript
-- 🔒 **[Security](https://github.com/aquaheyday/study-log/tree/main/topics/security)**: 암호화, 인증/인가, 보안 위협
-- 🌐 **[Web](https://github.com/aquaheyday/study-log/tree/main/topics/web)**: 프론트/백엔드 통합 개발
 
 ---
 
