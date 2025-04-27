@@ -13,22 +13,9 @@ Welcome to my **Portfolio**.
 
 ---
 
-## 🌐 Study Log
-
-| 프로젝트 | 설명 |
-|----------|------|
-| [cloud](https://github.com/aquaheyday/study-log/tree/main/topics/cloud) | 클라우드 인프라 및 서비스 |
-| [cs](https://github.com/aquaheyday/study-log/tree/main/topics/cs) | Computer Science 내용 |
-| [database](https://github.com/aquaheyday/study-log/tree/main/topics/database) | 데이터베이스 학습 내용 |
-| [language](https://github.com/aquaheyday/study-log/tree/main/topics/language) | 언어 및 프레임워크 학습  |
-| [security](https://github.com/aquaheyday/study-log/tree/main/topics/security) | 보안 학습 |
-| [web](https://github.com/aquaheyday/study-log/tree/main/topics/web) | 웹 개발 학습 | 
-
----
-
 ## 🚀 Highlight Projects
 
-### 💡Application Projects
+### 💡Application
 
 | 번호 | 프로젝트명 | 기술 스택 |
 |:--:|----------|-----------|
@@ -39,7 +26,7 @@ Welcome to my **Portfolio**.
 | 5 | [관리자용 CRUD RESTful API](https://github.com/aquaheyday/study-log/tree/main/projects/application/restful-admin-crud) | ![Go](https://img.shields.io/badge/Go-1.22.0-00ADD8?logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-1.8.1-4479A1?logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-1.16.4-85EA2D?logo=swagger&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-v5.2.1-000000?logo=jsonwebtokens&logoColor=white) |
 | 6 | [관리자 대시보드](https://github.com/aquaheyday/study-log/tree/main/projects/application/vite-ts-scss-admin-dashboard) | ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.7.3-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-6.0.5-646CFF?logo=vite&logoColor=white) |
 
-### 🐳 DevOps & Container Practice
+### 🐳 DevOps
 
 | 번호 | 프로젝트명 | 기술 스택  |
 |:--:|------|-----------|
@@ -78,16 +65,6 @@ Welcome to my **Portfolio**.
 
 ---
 
-## ✍ 기술 성장 스토리
-
-- **직접 프로젝트로 구현하고**,  
-- 문제를 만나면 **트러블슈팅으로 문서화하며**,  
-- **아키텍처와 코드 품질에도 꾸준히 고민**합니다.
-
-> 이 깃허브는 그런 **"학습과 실전의 연결점"** 을 담기 위한 노력의 결과물입니다.
-
----
-
 ## 🤝 협업 경험 & 일하는 방식
 
 - **애자일 스크럼 운영** 경험
@@ -107,6 +84,27 @@ Welcome to my **Portfolio**.
 - [agile-adoption.md](https://github.com/aquaheyday/reflection-log/tree/main/2025/agile-adoption.md) — 애자일 도입기 & 회고
 
 > 💬 좋은 프로덕트를 만들기 위해선 함께 일하는 방법도 중요하다고 믿습니다.
+
+---
+
+## 🌐 Study Log
+
+- ☁️ **[Cloud](https://github.com/aquaheyday/study-log/tree/main/topics/cloud)**: AWS, GCP, CI/CD, Terraform
+- 🖥️ **[CS](https://github.com/aquaheyday/study-log/tree/main/topics/cs)**: 자료구조, 네트워크, 운영체제
+- 🛢️ **[Database](https://github.com/aquaheyday/study-log/tree/main/topics/database)**: SQL 최적화, 인덱스 튜닝
+- 💻 **[Language](https://github.com/aquaheyday/study-log/tree/main/topics/language)**: Python, Go, PHP, TypeScript
+- 🔒 **[Security](https://github.com/aquaheyday/study-log/tree/main/topics/security)**: 암호화, 인증/인가, 보안 위협
+- 🌐 **[Web](https://github.com/aquaheyday/study-log/tree/main/topics/web)**: 프론트/백엔드 통합 개발
+
+---
+
+## ✍ 기술 성장 스토리
+
+- **직접 프로젝트로 구현하고**,  
+- 문제를 만나면 **트러블슈팅으로 문서화하며**,  
+- **아키텍처와 코드 품질에도 꾸준히 고민**합니다.
+
+> 이 깃허브는 그런 **"학습과 실전의 연결점"** 을 담기 위한 노력의 결과물입니다.
 
 ---
 
