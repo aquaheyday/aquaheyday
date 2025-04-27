@@ -41,27 +41,27 @@ Welcome to my **Portfolio**.
 
 ### 🐳 DevOps & Container Practice
 
-| 번호 | 프로젝트명 | 설명 | 기술 스택  |
-|:--:|------|-----------|-----------|
-| 1 | [블루-그린 무중단 배포 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | 설명 | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |
-| 2 | [Go 기반 컨테이너 API 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api) | 설명 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) `PostgreSQL` |
-| 3 | [Laravel + MySQL 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | | `Laravel`, `Docker Compose` |
+| 번호 | 프로젝트명 | 기술 스택  |
+|:--:|------|-----------|
+| 1 | [블루-그린 무중단 배포 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/nextjs-green-blue-deploy) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) |
+| 2 | [Go 기반 컨테이너 API 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/golang-api)  | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| 3 | [Laravel + MySQL 개발 환경 구성](https://github.com/aquaheyday/study-log/tree/main/projects/docker/laravel-mysql) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 
 ### 🤖 Machine Learning
 
-| 번호 | 프로젝트명 | 설명 | 기술 스택 |
-|:--:|----------|------|-----------|
-| 1  | [손글씨 분류 CNN 모델 학습](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) |  | `TensorFlow`, `Keras`, `CNN`, `Augmentation`, `Visualization` |
+| 번호 | 프로젝트명 | 기술 스택 |
+|:--:|----------|-----------|
+| 1  | [손글씨 분류 CNN 모델 학습](https://github.com/aquaheyday/study-log/tree/main/projects/machine-learning/mnist_cnn_model) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-4B8BBE?logo=python&logoColor=white) ![Augmentation](https://img.shields.io/badge/Augmentation-9C27B0) ![Visualization](https://img.shields.io/badge/Visualization-03A9F4) |
 
 ---
 
 ## 🧯 Troubleshooting
 
-| 번호 | 주제 | 설명 | 기술 스택 |
-|:--:|----------|------|-----------|
-| 1 | [Docker `no space left on device`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/docker/docker-image-disk-full.md) | Docker로 Blue/Green 배포시 `no space left on device` 오류 | |
-| 2  | [Next.js + Apache Revers Proxy `CORS`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 | |
-| 3 | [`Apache` 로그 파일 용량 폭주 문제](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/apache/log-overgrowth-and-rotatelogs.md) | Apache access_log, error_log 등의 로그 파일이 지속적으로 증가하는 이슈 |
+| 번호 | 주제 | 기술 스택 |
+|:--:|----------|-----------|
+| 1 | [Docker로 Blue/Green 배포시 `no space left on device` 오류](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/docker/docker-image-disk-full.md) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) |
+| 2  | [Next.js + Apache Reverse Proxy 환경에서 CORS 오류](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) ![Reverse Proxy](https://img.shields.io/badge/Reverse%20Proxy-000000?logo=jsonwebtokens&logoColor=white) |
+| 3 | [`Apache` access_log, error_log 파일 용량 폭주 문제](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/apache/log-overgrowth-and-rotatelogs.md) | ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white) ![Rotatelogs](https://img.shields.io/badge/Rotatelogs-000000?logo=jsonwebtokens&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnu-bash&logoColor=white) |
 
 ---
 
@@ -71,7 +71,7 @@ Welcome to my **Portfolio**.
 
 | 번호 | 주제 | 설명 | 기술 스택 |
 |:--:|---|---|---|
-| 1 | [GitHub Actions Not Working](https://github.com/aquaheyday/study-log/blob/main/contributions/issues/sanga-1-fix-github-action-not-working.md) | 깃허브 엑션이 동작하지않는 이슈 해결 |
+| 1 | [GitHub Actions Not Working](https://github.com/aquaheyday/study-log/blob/main/contributions/issues/sanga-1-fix-github-action-not-working.md) | 깃허브 엑션이 동작하지않는 이슈 해결 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?logo=openssh&logoColor=white) ![Secret](https://img.shields.io/badge/Secret-8E44AD?logo=databricks&logoColor=white) ![Web Server](https://img.shields.io/badge/Web%20Server-2C3E50) |
 
 ---
 
