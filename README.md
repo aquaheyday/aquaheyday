@@ -61,6 +61,7 @@ Welcome to my **Portfolio**.
 |:--:|----------|------|-----------|
 | 1 | [Docker `no space left on device`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/docker/docker-image-disk-full.md) | Docker로 Blue/Green 배포시 `no space left on device` 오류 | |
 | 2  | [Next.js + Apache Revers Proxy `CORS`](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/nextjs/nextjs-api-cors-error.md) | Next.js + Apache Reverse Proxy 환경에서 CORS 오류 | |
+| 3 | [`Apache` 로그 파일 용량 폭주 문제](https://github.com/aquaheyday/study-log/blob/main/troubleshooting/apache/log-overgrowth-and-rotatelogs.md) | Apache access_log, error_log 등의 로그 파일이 지속적으로 증가하는 이슈 |
 
 ---
 
