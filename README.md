@@ -9,11 +9,11 @@
 ## 🌐 Study Log
 
 ### ☁️ Cloud Engineering
-- **주요 기술**: AWS, GCP, CI/CD, Terraform  
+- **핵심 주제**: AWS, GCP, CI/CD, DevOps, 서버리스, 클라우드 설계  
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/cloud)
 
 ### 🖥️ Computer Science
-- **학습 주제**: 자료구조, 네트워크, 운영체제  
+- **핵심 주제**: 컴퓨터구조, 자료구조, 알고리즘, 네트워크, 운영체제, 시스템 설계 및 패턴  
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/cs)
 
 ### 🛢️ Database Systems
@@ -21,19 +21,19 @@
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/database)
 
 ### 💻 Programming Languages
-- **다루는 언어**: Python, Go, PHP, TypeScript  
+- **핵심 주제**: Python, Go, PHP, React, Flutter  
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/language)
 
 ### 🔒 Security
-- **주요 주제**: 암호화, 인증/인가, 보안 위협 대응  
+- **핵심 주제**: 암호화, 인증/인가, 보안 위협 대응  
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/security)
 
 ### 🌐 Web Development
-- **포커스**: 프론트엔드와 백엔드 통합 개발  
+- **핵심 주제**: 브라우저 동작 원리, css, html, javascript  
 - [학습 기록 보기](https://github.com/aquaheyday/study-log/tree/main/topics/web)
 
 ### 📚 Leading Book
-- **포커스**: 읽은 도서 목록
+- **핵심 주제**: 읽은 도서 목록
 - [학습 기록 보기](https://github.com/aquaheyday/reading-log/blob/main/book-list.md)
 
 ---
