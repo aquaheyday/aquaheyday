@@ -90,7 +90,13 @@
 
 ---
 
-## 라이브러리
+## 📦 Packages
+
+| 번호 | 프로젝트명 | 설명 | 기술 스택 |
+|:--:|---|---|---|
+| 1 | [Go Response](https://github.com/aquaheyday/go-resp) | HTTP API에서 JSON 응답을 간편하게 처리할 수 있도록 도와주는 경량 Go 패키지 입니다. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| 2 | [Go SQL To Struct](https://github.com/aquaheyday/go-sqlz) | database/sql을 활용해 깔끔하고 빠른 SELECT 쿼리를 실행할 수 있도록 도와주는 경량 Go 패키지 입니다. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+
 
 
 ---
@@ -112,7 +118,7 @@
 #### 📂 관련 문서
 
 - [agile-adoption.md](https://github.com/aquaheyday/reflection-log/tree/main/2025/agile-adoption.md) — 애자일 도입기 & 회고
-
+- [coupang-price.md](https://github.com/aquaheyday/reflection-log/blob/main/notes/2023-coupang-price.md) - 로켓설치 상품의 시간대별 가격 변동을 수기로 기록하여 최저가 구매 시점을 찾아보기
 > 💬 좋은 프로덕트를 만들기 위해선 함께 일하는 방법도 중요하다고 믿습니다.
 
 ---
