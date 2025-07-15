@@ -121,7 +121,3 @@
 - [agile-adoption.md](https://github.com/aquaheyday/reflection-log/tree/main/2025/agile-adoption.md) — 애자일 도입기 & 회고
 - [coupang-price.md](https://github.com/aquaheyday/reflection-log/blob/main/notes/2023-coupang-price.md) - 로켓설치 상품의 시간대별 가격 변동을 수기로 기록하여 최저가 구매 시점을 찾아보기
 > 💬 좋은 프로덕트를 만들기 위해선 함께 일하는 방법도 중요하다고 믿습니다.
-
----
-
-⭐️ 감사합니다! 이 레포가 제 성장을 보여줄 수 있는 하나의 창이 되길 바랍니다 :)
