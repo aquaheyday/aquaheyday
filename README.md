@@ -97,6 +97,7 @@
 |:--:|---|---|---|
 | 1 | [Go Response](https://github.com/aquaheyday/go-resp) | HTTP API에서 JSON 응답을 간편하게 처리할 수 있도록 도와주는 경량 Go 패키지 입니다. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 | 2 | [Go SQL To Struct](https://github.com/aquaheyday/go-sqlz) | database/sql을 활용해 깔끔하고 빠른 SELECT 쿼리를 실행할 수 있도록 도와주는 경량 Go 패키지 입니다. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| 3 | [Go Hateoas](https://github.com/aquaheyday/go-hateoas) | HATEOAS(Hypermedia as the Engine of Application State)를 구현하여, RESTful API 응답에 링크를 체이닝 방식으로 쉽게 추가하고 리소스 구조를 표준에 맞게 감쌀 수 있도록 돕는 경량 Go 패키지입니다. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
 
 
 
